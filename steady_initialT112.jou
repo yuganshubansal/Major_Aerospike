@@ -1,0 +1,33 @@
+/file/read-case-data AS_17.cas.h5
+
+
+/file/autosave/data-frequency 5000
+
+
+/solve
+
+iterate 150000
+
+quit
+
+/file
+
+write-case-data
+
+y
+
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+quit
+
+exit
